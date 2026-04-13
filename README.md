@@ -4,7 +4,9 @@ Thanks for visiting.
 
 Please feel free to explore my work and connect with me for any opportunities or feedback. 
 
-[My LinkedIn Profile](https://www.linkedin.com/in/saurabh-doshi-14-10-1996-/)
+[My LinkedIn Profile](https://www.linkedin.com/in/saurabh-doshi-14-10-1996-/)    
+
+saurabhdoshi51@gmail.com
 
 ***Here's my introduction:***
 
