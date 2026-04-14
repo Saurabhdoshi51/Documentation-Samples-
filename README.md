@@ -32,7 +32,7 @@ I specialize in simplifying complex technical concepts into clear, structured, a
  
 ## 💻 Technical/Programming Knowledge:
       
-      - Working knowledge of Python, Java, HTML, XML, JSON, and CSS to support developer-focused documentation and API workflows
+      - Working knowledge of Markdown, Python, Java, HTML, XML, JSON, and CSS to support developer-focused documentation and API workflows
  
 ## 🌍 Collaboration:
       
