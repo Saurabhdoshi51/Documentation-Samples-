@@ -8,10 +8,8 @@ Please feel free to explore my work and connect with me for any opportunities or
 
 saurabhdoshi51@gmail.com
 
-***Here's my introduction:***
-
-Results-driven Technical Writer with 7+ years of experience delivering high-impact documentation for engineering and software products.
-I specialize in simplifying complex technical concepts into clear, structured, and user-focused content that improves product usability and reduces support overhead.
+### ***Here's My Introduction:***   
+Technical Writer with 7+ years of experience developing user-focused documentation, including manuals, online help, API documentation, and training materials for engineering and software products. Proven track record of reducing support tickets by up to 50% and improving documentation workflow efficiency by 70% using Python and AI tools. Skilled in structured authoring and documentation tools such as Oxygen XML, DITA, Git, Repos, and Adobe tools, along with hands-on experience in AI technologies, including ChatGPT, Grok, Claude, and custom AI-driven tools. Holds certifications in Generative AI, Technical Writing, and Project Management, with a strong focus on leveraging modern tools and methodologies to deliver high-quality, scalable documentation in dynamic, cross-functional environments.
  
 ## 💡 Key Achievements:
      
@@ -42,10 +40,10 @@ I specialize in simplifying complex technical concepts into clear, structured, a
       
       - Oxygen XML, DITA, Git, GitHub, Postman, Catia Composer, Adobe Suite, FrameMaker
  
-## 🚀 Currently exploring:
+## 🚀 Currently Exploring:
 
       - AI-driven documentation, automation, building AI-Agents, and next-generation content workflows
  
-## 📩 Open to opportunities in:
+## 📩 Open to Opportunities in:
 
        Technical Writing | Software Documentation (Online Helps) | API Documentation | Developer Documentation | AI Documentation
